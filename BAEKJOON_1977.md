@@ -12,5 +12,5 @@
 > 주어진 수의 제곱근에서, 해당 제곱근을 floor(반내림)했을 때의 차이가 0이면 완전제곱수!
 
 > __math.h 헤더파일을 include하여, sqrt()와 floor()을 적절히 사용하자.__    
-	> > [sqrt 관련 reference](https://blockdmask.tistory.com/307)    
-	> > [floor 관련 referece](https://blockdmask.tistory.com/112)
+>	> [sqrt 관련 reference](https://blockdmask.tistory.com/307)    
+>	> [floor 관련 referece](https://blockdmask.tistory.com/112)
